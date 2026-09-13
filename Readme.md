@@ -75,7 +75,7 @@ Python 3.13.0
 ## 1. Clone the Repository
 
 ```cmd
-git clone https://github.com/YOUR-USERNAME/FileFlow.git
+git clone https://github.com/Livsn06/Fileflow.git
 ```
 
 Go into the project:
@@ -634,14 +634,6 @@ The project is designed to provide hands-on experience with:
 - Automation concepts
 
 The goal is not only to create a file organizer, but to build a foundation for creating more practical automation tools in Python.
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the `LICENSE` file for more information.
 
 ---
 
